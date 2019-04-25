@@ -93,6 +93,7 @@ public class Owner extends Person {
     }
 
     protected void setPetsInternal(Set<Pet> pets) {
+        int testing = 0;
         this.pets = pets;
     }
 

@@ -19,6 +19,6 @@ steps:
   inputs:
     serviceConnection: 'rich-code-nav-dev'
     nugetServiceConnection: 'rich-code-nav-nuget'
-    languages: csharp
+    languages: java
     githubServiceConnection: 'arjun27 (1)'
     serviceEndpoint: 'https://vscloudkernel-dev.azurewebsites.net'
